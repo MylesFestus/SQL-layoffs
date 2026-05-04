@@ -21,3 +21,6 @@ Introduction to SQL
   -- using subqueries
   -- WITH Statements
 
+- Courtsey
+  -- Masterschool Institute of Technology
+  -- Alex the Analyst (Youtube tutorials)
