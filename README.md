@@ -1,6 +1,8 @@
 <h1 align="center">SQL Project</h1>
 <p align="center">
   Data Cleaning • Exploratory Data Analysis (EDA) • MySQL
+  World tech layoff dataset from covid 2019-2022 `Mini-Project`
+  Data source (https://www.kaggle.com/datasets/swaptr/layoffs-2022)
 </p>
 
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql)](https://www.mysql.com/)
@@ -9,11 +11,6 @@
 [![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-EDA-informational)](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 [![Database](https://img.shields.io/badge/Database-Relational-blueviolet)](https://en.wikipedia.org/wiki/Relational_database)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
-
-World tech layoff dataset from covid 2019-2022 `Mini-Project`
-
-- Data source (https://www.kaggle.com/datasets/swaptr/layoffs-2022)
-- Tasks --> Data cleansing and EDA using MySQL
  
 ## Introduction to SQL 
 ### Beginner
