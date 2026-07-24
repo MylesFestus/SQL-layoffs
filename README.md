@@ -1,3 +1,5 @@
+# SQL Project
+
 World tech layoff dataset from covid 2019-2022
 Mini-Project
 - Data source -- https://www.kaggle.com/datasets/swaptr/layoffs-2022
