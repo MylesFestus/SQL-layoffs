@@ -16,9 +16,9 @@
 ### Beginner
   
    - Filtering and Aggregation
-   - summarizing data using aggregations
-   - creating custom columns
-   - filtering and sorting aggregated columns
+   - Summarizing data using aggregations
+   - Creating custom columns
+   - Filtering and sorting aggregated columns
 
 ### Intermediate
 
@@ -30,7 +30,7 @@
   - Cleaning and analyzing data
   - Cleaning messy text data
   - Working with numbers and dates
-  - using subqueries
+  - Using subqueries
   - WITH Statements
 
 ## Courtsey
