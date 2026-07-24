@@ -1,8 +1,8 @@
 <h1 align="center">SQL Project</h1>
 <p align="center">
   <strong>Data Cleaning • Exploratory Data Analysis (EDA) • MySQL</strong><br><br>
-  📊 <strong>Mini Project:</strong> World Tech Layoffs Dataset (2019–2022)<br>
-  📁 <strong>Dataset:</strong> <a href="https://www.kaggle.com/datasets/swaptr/layoffs-2022" target="_blank">Kaggle – Layoffs 2022</a>
+   <strong>Mini Project:</strong> World Tech Layoffs Dataset (2019–2022)<br>
+   <strong>Dataset:</strong> <a href="https://www.kaggle.com/datasets/swaptr/layoffs-2022" target="_blank">Kaggle – Layoffs 2022</a>
 </p>
 
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql)](https://www.mysql.com/)
