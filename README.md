@@ -1,4 +1,7 @@
 <h1 align="center">SQL Project</h1>
+<p align="center">
+  Data Cleaning • Exploratory Data Analysis (EDA) • MySQL
+</p>
 
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql)](https://www.mysql.com/)
 [![SQL](https://img.shields.io/badge/SQL-Data_Analysis-orange)](https://en.wikipedia.org/wiki/SQL)
