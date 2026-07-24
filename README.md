@@ -1,7 +1,6 @@
 # SQL Project
 
-World tech layoff dataset from covid 2019-2022
-Mini-Project
+World tech layoff dataset from covid 2019-2022 `Mini-Project`
 
 - Data source -- https://www.kaggle.com/datasets/swaptr/layoffs-2022
 - Tasks -- Data cleansing and EDA using MySQL
@@ -19,14 +18,15 @@ Mini-Project
   - Combining columns from multiple tables
   - Merging rows from multiple tables
   
-- Advanced SQL
-  -- Cleaning and analyzing data
-  -- Cleaning messy text data
-  -- Working with numbers and dates
-  -- using subqueries
-  -- WITH Statements
+### Advanced SQL
 
-- Courtsey
+  - Cleaning and analyzing data
+  - Cleaning messy text data
+  - Working with numbers and dates
+  - using subqueries
+  - WITH Statements
+
+## Courtsey
   
-  -- Masterschool Institute of Technology
-  -- Alex the Analyst (Youtube tutorials)
+  - Masterschool Institute of Technology
+  - Alex the Analyst (Youtube tutorials)
